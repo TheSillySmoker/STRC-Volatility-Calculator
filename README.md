@@ -21,7 +21,6 @@ The script analyses how effectively STRC has traded around its $100 target price
   * Average distance from $100
   * Number of excursions below the lower bound
   * Longest consecutive period below the lower bound
-  * Recovery time for each excursion
 * Produces a chart comparing:
 
   * STRC
