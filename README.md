@@ -3,8 +3,6 @@ Calculates the volatility of STRC compared to MSTR and BTC. It also shows how mu
 
 Vibe Coded with ChatGPT
 
-# STRC Target Range & Volatility Analysis
-
 A Python script for analysing the historical closing-price behaviour of **Strategy Variable Rate Series A Perpetual Stretch Preferred Stock (STRC)**.
 
 The script analyses how effectively STRC has traded around its $100 target price and compares its volatility with **Strategy (MSTR)** and **Bitcoin (BTC)**.
