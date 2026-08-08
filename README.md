@@ -1,7 +1,5 @@
 # STRC-Volatility-Calculator
-Calculates the volatility of STRC compared to MSTR and BTC. It also shows how much the asset has remained within a trading range.  
-
-Vibe Coded with ChatGPT
+Vibe coded with ChatGPT.
 
 A Python script for analysing the historical closing-price behaviour of **Strategy Variable Rate Series A Perpetual Stretch Preferred Stock (STRC)**.
 
