@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 # ============================================================
 
 STRC_COLOUR = "#1f77b4"        # blue
-MSTR_COLOUR = "#ff7f0e"        # orange
+MSTR_COLOUR = "red"        # orange
 BTC_COLOUR = "#f2a900"         # bitcoin gold
 
 REFERENCE_LINE_COLOUR = "grey" # dashed line at 100 on the price chart
